@@ -4,12 +4,12 @@ description: "A NetSci 2024 Satellite Workshop"
 timezone: Europe/Vienna
 
 navigation:
-  Home: "/"
-  Call for Papers: "/cfp"
-  Accepted Papers: "/papers"
-  Speakers: "/speakers"
-  Schedule: "/schedule"
-  Organizers: "/organizers"
+  Home: "/2024/"
+  Call for Papers: "/2024/cfp"
+  Accepted Papers: "/2024/papers"
+  Speakers: "/2024/speakers"
+  Schedule: "/2024/schedule"
+  Organizers: "/2024/organizers"
   2023: "/2023"
 
 markdown: kramdown

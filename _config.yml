@@ -10,7 +10,7 @@ navigation:
   Speakers: "/2024/speakers"
   Schedule: "/2024/schedule"
   Organizers: "/2024/organizers"
-  2023: "/2023"
+  Back: "https://netscisci.github.io/"
 
 markdown: kramdown
 
